@@ -8,7 +8,8 @@
     "thumbnail": "https://i1.wp.com/makanmana.net/wp-content/uploads/2019/07/P5290031-1.jpg?fit=720%2C960&ssl=1",
     "profile_owner": "",
     "food_count": 10,
-    "price": "$2.00"
+    "type_of_currency": "IDR",
+    "price": 30000
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@
     "thumbnail": "https://i2.wp.com/grandbaby-cakes.com/wp-content/uploads/2019/12/New-Orleans-Hurricane-Drink-2.jpg",
     "profile_owner": "",
     "food_count": 0,
-    "price": "$2.00"
+    "type_of_currency": "IDR",
+    "price": 30000
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@
     "thumbnail": "https://i1.wp.com/makanmana.net/wp-content/uploads/2019/07/P5290031-1.jpg?fit=720%2C960&ssl=1",
     "profile_owner": "",
     "food_count": 10,
-    "price": "$2.00"
+    "type_of_currency": "IDR",
+    "price": 30000
   },
   {
     "id": 4,
@@ -41,8 +44,10 @@
     "thumbnail": "https://i2.wp.com/grandbaby-cakes.com/wp-content/uploads/2019/12/New-Orleans-Hurricane-Drink-2.jpg",
     "profile_owner": "",
     "food_count": 10,
-    "price": "$2.00"
-  },{
+    "type_of_currency": "IDR",
+    "price": 30000
+  },
+  {
     "id": 5,
     "name": "Bakmi Hock Seng",
     "owner": "Unknown",
@@ -51,7 +56,8 @@
     "thumbnail": "https://i1.wp.com/makanmana.net/wp-content/uploads/2019/07/P5290031-1.jpg?fit=720%2C960&ssl=1",
     "profile_owner": "",
     "food_count": 10,
-    "price": "$2.00"
+    "type_of_currency": "IDR",
+    "price": 30000
   },
   {
     "id": 6,
@@ -62,8 +68,10 @@
     "thumbnail": "https://i2.wp.com/grandbaby-cakes.com/wp-content/uploads/2019/12/New-Orleans-Hurricane-Drink-2.jpg",
     "profile_owner": "",
     "food_count": 10,
-    "price": "$2.00"
-  },{
+    "type_of_currency": "IDR",
+    "price": 30000
+  },
+  {
     "id": 7,
     "name": "Bakmi Hock Seng",
     "owner": "Unknown",
@@ -72,7 +80,8 @@
     "thumbnail": "https://i1.wp.com/makanmana.net/wp-content/uploads/2019/07/P5290031-1.jpg?fit=720%2C960&ssl=1",
     "profile_owner": "",
     "food_count": 10,
-    "price": "$2.00"
+    "type_of_currency": "IDR",
+    "price": 30000
   },
   {
     "id": 8,
@@ -83,6 +92,7 @@
     "thumbnail": "https://i2.wp.com/grandbaby-cakes.com/wp-content/uploads/2019/12/New-Orleans-Hurricane-Drink-2.jpg",
     "profile_owner": "",
     "food_count": 10,
-    "price": "$2.00"
+    "type_of_currency": "IDR",
+    "price": 20000
   }
 ]
