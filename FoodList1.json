@@ -9,7 +9,7 @@
     "profile_owner": "",
     "food_count": 10,
     "type_of_currency": "IDR",
-    "price": 30000
+    "price": 30.000
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "profile_owner": "",
     "food_count": 0,
     "type_of_currency": "IDR",
-    "price": 30000
+    "price": 30.000
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
     "profile_owner": "",
     "food_count": 10,
     "type_of_currency": "IDR",
-    "price": 30000
+    "price": 30.000
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
     "profile_owner": "",
     "food_count": 10,
     "type_of_currency": "IDR",
-    "price": 30000
+    "price": 30.000
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "profile_owner": "",
     "food_count": 10,
     "type_of_currency": "IDR",
-    "price": 30000
+    "price": 30.000
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
     "profile_owner": "",
     "food_count": 10,
     "type_of_currency": "IDR",
-    "price": 30000
+    "price": 30.000
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@
     "profile_owner": "",
     "food_count": 10,
     "type_of_currency": "IDR",
-    "price": 30000
+    "price": 30.000
   },
   {
     "id": 8,
@@ -93,6 +93,6 @@
     "profile_owner": "",
     "food_count": 10,
     "type_of_currency": "IDR",
-    "price": 20000
+    "price": 20.000
   }
 ]
