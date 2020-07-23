@@ -10,8 +10,8 @@
       "thumbnail": "https://asset-a.grid.id/crop/0x0:0x0/700x0/photo/2018/11/19/2410231218.png",
       "profile_owner": "",
       "food_count": 10,
-	  "type_of_currency": "$",
-      "price": 2.99
+      "type_of_currency": "$",
+      "price": 2.00.99
     },
     {
       "id": 5,
@@ -22,7 +22,7 @@
       "thumbnail": "https://i1.wp.com/makanmana.net/wp-content/uploads/2019/07/P5290031-1.jpg?fit=720%2C960&ssl=1",
       "profile_owner": "",
       "food_count": 10,
-	  "type_of_currency": "$",
+      "type_of_currency": "$",
       "price": 2.00
     },
     {
@@ -34,7 +34,7 @@
       "thumbnail": "https://img2.mashed.com/img/gallery/food-trends-that-are-about-to-take-over-2020/seaweed-will-be-popular-in-2020-1575330624.jpg",
       "profile_owner": "",
       "food_count": 10,
-	  "type_of_currency": "$",
+      "type_of_currency": "$",
       "price": 2.00
     },
     {
@@ -46,7 +46,7 @@
       "thumbnail": "https://asset-a.grid.id/crop/0x0:0x0/700x0/photo/2019/04/16/3933031395.jpg",
       "profile_owner": "",
       "food_count": 0,
-	  "type_of_currency": "$",
+      "type_of_currency": "$",
       "price": 0.99
     },
     {
@@ -58,7 +58,7 @@
       "thumbnail": "https://asset-a.grid.id/crop/0x0:0x0/700x0/photo/2018/12/04/2388444027.jpg",
       "profile_owner": "",
       "food_count": 10,
-	  "type_of_currency": "$",
+      "type_of_currency": "$",
       "price": 2.00
     },
     {
@@ -70,7 +70,7 @@
       "thumbnail": "https://img4.mashed.com/img/gallery/food-trends-from-2019-that-no-one-will-remember-in-2020/freakshakes-will-fall-in-2020-1575391280.jpg",
       "profile_owner": "",
       "food_count": 10,
-	  "type_of_currency": "$",
+      "type_of_currency": "$",
       "price": 2.00
     }
   ]
