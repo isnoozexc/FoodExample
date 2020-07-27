@@ -9,6 +9,8 @@
       "desc_food": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et lacinia turpis. Praesent orci lacus, tempor et tortor sit amet, vulputate blandit risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent rhoncus placerat ullamcorper. Pellentesque finibus mollis lacus eu aliquam. Cras quis sagittis arcu, quis consectetur mi. Donec tincidunt, nisl condimentum laoreet hendrerit, nulla dui maximus eros, non maximus metus arcu quis purus. Phasellus blandit vulputate purus, ac scelerisque metus bibendum consectetur.",
       "thumbnail": "https://asset-a.grid.id/crop/0x0:0x0/700x0/photo/2018/11/19/2410231218.png",
       "profile_owner": "",
+      "discount": false,
+      "rate_discount": 50,
       "food_count": 10,
       "type_of_currency": "$",
       "price": 3.99
@@ -21,6 +23,8 @@
       "desc_food": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et lacinia turpis. Praesent orci lacus, tempor et tortor sit amet, vulputate blandit risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent rhoncus placerat ullamcorper. Pellentesque finibus mollis lacus eu aliquam. Cras quis sagittis arcu, quis consectetur mi. Donec tincidunt, nisl condimentum laoreet hendrerit, nulla dui maximus eros, non maximus metus arcu quis purus. Phasellus blandit vulputate purus, ac scelerisque metus bibendum consectetur.",
       "thumbnail": "https://i1.wp.com/makanmana.net/wp-content/uploads/2019/07/P5290031-1.jpg?fit=720%2C960&ssl=1",
       "profile_owner": "",
+      "discount": false,
+      "rate_discount": 50,
       "food_count": 10,
       "type_of_currency": "$",
       "price": 2.99
@@ -33,6 +37,8 @@
       "desc_food": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et lacinia turpis. Praesent orci lacus, tempor et tortor sit amet, vulputate blandit risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent rhoncus placerat ullamcorper. Pellentesque finibus mollis lacus eu aliquam. Cras quis sagittis arcu, quis consectetur mi. Donec tincidunt, nisl condimentum laoreet hendrerit, nulla dui maximus eros, non maximus metus arcu quis purus. Phasellus blandit vulputate purus, ac scelerisque metus bibendum consectetur.",
       "thumbnail": "https://img2.mashed.com/img/gallery/food-trends-that-are-about-to-take-over-2020/seaweed-will-be-popular-in-2020-1575330624.jpg",
       "profile_owner": "",
+      "discount": false,
+      "rate_discount": 50,
       "food_count": 10,
       "type_of_currency": "$",
       "price": 2.99
@@ -45,6 +51,8 @@
       "desc_food": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et lacinia turpis. Praesent orci lacus, tempor et tortor sit amet, vulputate blandit risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent rhoncus placerat ullamcorper. Pellentesque finibus mollis lacus eu aliquam. Cras quis sagittis arcu, quis consectetur mi. Donec tincidunt, nisl condimentum laoreet hendrerit, nulla dui maximus eros, non maximus metus arcu quis purus. Phasellus blandit vulputate purus, ac scelerisque metus bibendum consectetur.",
       "thumbnail": "https://asset-a.grid.id/crop/0x0:0x0/700x0/photo/2019/04/16/3933031395.jpg",
       "profile_owner": "",
+      "discount": false,
+      "rate_discount": 50,
       "food_count": 0,
       "type_of_currency": "$",
       "price": 0.99
@@ -57,6 +65,8 @@
       "desc_food": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et lacinia turpis. Praesent orci lacus, tempor et tortor sit amet, vulputate blandit risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent rhoncus placerat ullamcorper. Pellentesque finibus mollis lacus eu aliquam. Cras quis sagittis arcu, quis consectetur mi. Donec tincidunt, nisl condimentum laoreet hendrerit, nulla dui maximus eros, non maximus metus arcu quis purus. Phasellus blandit vulputate purus, ac scelerisque metus bibendum consectetur.",
       "thumbnail": "https://asset-a.grid.id/crop/0x0:0x0/700x0/photo/2018/12/04/2388444027.jpg",
       "profile_owner": "",
+      "discount": false,
+      "rate_discount": 50,
       "food_count": 10,
       "type_of_currency": "$",
       "price": 2.99
@@ -69,6 +79,8 @@
       "desc_food": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et lacinia turpis. Praesent orci lacus, tempor et tortor sit amet, vulputate blandit risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent rhoncus placerat ullamcorper. Pellentesque finibus mollis lacus eu aliquam. Cras quis sagittis arcu, quis consectetur mi. Donec tincidunt, nisl condimentum laoreet hendrerit, nulla dui maximus eros, non maximus metus arcu quis purus. Phasellus blandit vulputate purus, ac scelerisque metus bibendum consectetur.",
       "thumbnail": "https://img4.mashed.com/img/gallery/food-trends-from-2019-that-no-one-will-remember-in-2020/freakshakes-will-fall-in-2020-1575391280.jpg",
       "profile_owner": "",
+      "discount": true,
+      "rate_discount": 30,
       "food_count": 10,
       "type_of_currency": "$",
       "price": 2.99
