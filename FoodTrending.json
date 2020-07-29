@@ -12,8 +12,8 @@
       "discount": false,
       "rate_discount": 50,
       "food_count": 10,
-      "type_of_currency": "$",
-      "price": 3.99
+      "type_of_currency": "IDR",
+      "price": 25.000
     },
     {
       "id": 5,
@@ -26,8 +26,8 @@
       "discount": false,
       "rate_discount": 50,
       "food_count": 10,
-      "type_of_currency": "$",
-      "price": 2.99
+      "type_of_currency": "IDR",
+      "price": 18.000
     },
     {
       "id": 6,
@@ -40,8 +40,8 @@
       "discount": false,
       "rate_discount": 50,
       "food_count": 10,
-      "type_of_currency": "$",
-      "price": 2.99
+      "type_of_currency": "IDR",
+      "price": 13.000
     },
     {
       "id": 2,
@@ -54,8 +54,8 @@
       "discount": false,
       "rate_discount": 50,
       "food_count": 0,
-      "type_of_currency": "$",
-      "price": 0.99
+      "type_of_currency": "IDR",
+      "price": 14.000
     },
     {
       "id": 3,
@@ -68,8 +68,8 @@
       "discount": false,
       "rate_discount": 50,
       "food_count": 10,
-      "type_of_currency": "$",
-      "price": 2.99
+      "type_of_currency": "IDR",
+      "price": 6.000
     },
     {
       "id": 4,
@@ -82,8 +82,8 @@
       "discount": true,
       "rate_discount": 30,
       "food_count": 10,
-      "type_of_currency": "$",
-      "price": 2.99
+      "type_of_currency": "IDR",
+      "price": 16.000
     }
   ]
 }
